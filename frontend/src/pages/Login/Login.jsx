@@ -52,9 +52,9 @@ const Login = () => {
           <div className={styles.logoBox}>
             <HiOutlineCurrencyRupee size={36} />
           </div>
-          <h1 className={styles.brandTitle}>ReimburseHub</h1>
+          <h1 className={styles.brandTitle}>WorkBalance Hub</h1>
           <p className={styles.brandSubtitle}>
-            Streamlined expense reimbursement management system
+            Streamlined expense reimbursement and leave management system
           </p>
 
           <div className={styles.features}>
