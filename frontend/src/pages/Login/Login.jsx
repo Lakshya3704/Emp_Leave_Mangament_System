@@ -49,9 +49,6 @@ const Login = () => {
     <div className={styles.container}>
       <div className={styles.leftPanel}>
         <div className={styles.leftContent}>
-          <div className={styles.logoBox}>
-            <HiOutlineCurrencyRupee size={36} />
-          </div>
           <h1 className={styles.brandTitle}>WorkBalance Hub</h1>
           <p className={styles.brandSubtitle}>
             Streamlined expense reimbursement and leave management system
