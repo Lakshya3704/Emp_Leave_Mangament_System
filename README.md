@@ -154,13 +154,6 @@ For support, questions, or bug reports:
 - **Email**: [Add your email contact]
 - **Documentation**: Check the project wiki for detailed guides
 
-## Changelog
-
-### Version 1.0.0
-- Initial release
-- Core leave management functionality
-- Employee and admin dashboards
-
 ---
 
 **Last Updated**: May 13, 2026
